@@ -1,6 +1,7 @@
 # **Network analysis in the Humanities. Gephi**
 
 RISE crash course Gephi
+
 Two-hour crash course for introduction to Network analysis and visualization with Gephi
 
 ☞ Course outline
