@@ -263,7 +263,7 @@ Co-authoring network of 3500 publications on Stylometry. The bibliography has be
 1. Dracor > tools > https://ezlinavis.dracor.org > Examples > Calderón de la Barca> download _edge list_.
 2. Gephi > Import spreadsheet (CSV) > next > finish.
 - Layout: Fruchterman Reingold.
-- Nodes size based on _degree_: Appearance > nodes > size [icon circles] > Ranking > Choose an attribute > Degree [min. 10 - max. 50].
+- Nodes size based on _degree_: Appearance > nodes > size ![icon circles](/images/size.png) > Ranking > Choose an attribute > Degree [min. 10 - max. 50].
 - Nodes labels: "copy data to other column" (_Data laboratory_). Alternative: "select attributes to display as labels" (_Overview_).
 - Centrality measures (Betweenness/Eigenvector): Segismundo vs Clarín (statistics > Network Diameter; Eigenvector Centrality).
 
