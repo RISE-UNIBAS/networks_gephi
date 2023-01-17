@@ -293,10 +293,10 @@ Co-authoring network of 3500 publications on Stylometry. The bibliography has be
 
 1. Gephi > open ```authors_and_awards.gexf```.
 - Layout: Force Atlas 2 > run|stop; > Prevent overlap > run|stop; Zoom
-- Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > Type
+- Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > Type
 - Appearance > nodes > size [icon circles ![](/images/size.png)] > Ranking > Choose an attribute > Degree [min. 10 - max. 50] (number of authors by award).
 - Nodes Labels: Show node Labels; More settings > Labels > Hide non-selected. 
-- [reset colors] > Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > gender.
+- [reset colors] > Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > gender.
 
 ## Awards and winners network (2)
 
@@ -308,7 +308,7 @@ Files are available in ```/data/awards.gexf```; ```/data/authors.gexf```. They c
   - Layout: Force atlas 2 [Prevent overlap, Disuade Hubs, Scaling = 50]
   - Appearance > nodes > size [icon circles ![](/images/size.png)] > Ranking > Choose an attribute > Degree [min. 5 - max. 30].
   - Modularity: Community detection > Modularity > run.
-  - Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > Modularity Class.
+  - Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > Modularity Class.
 
   - Check centrality metrics:
       - Statistics > eigenvector Centrality.
