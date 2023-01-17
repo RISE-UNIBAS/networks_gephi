@@ -8,7 +8,7 @@ Two-hour crash course for introduction to Network analysis and visualization wit
 
 - [Showcase](#showcase)
 - [Networks](#networks)
-- [Formalization and formats](#formalization-and-formats)
+- [Formalization and file formats](#formalization-and-file-formats)
 - [Metrics](#metrics)
 - [Tools](#tools)
 - [Data](#data-for-this-course)
@@ -235,10 +235,10 @@ Co-appearance character networks in theater. The source of the data is <https://
 
 35 literary awards and 1325 award-winning authors: data obtained from Wikidata. CSV table with 3 variables: prizes, winners and gender (masc./fem.); bipartite network and simple networks in GEXF format.
 
-- ```autoresypremios.csv```
-- ```autoresypremios.gexf```
-- ```autores.gexf```
-- ```premios.gexf```
+- ```authors_and_awards.csv```
+- ```authors_and_awards.gexf```
+- ```authors.gexf```
+- ```awards.gexf```
 
 Dataset (+ node and egdes lists) is available in [editio/premios-literarios](https://github.com/editio/premios-literarios) and Zenodo: José Luis Losada (2022) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6464417.svg)](https://doi.org/10.5281/zenodo.6464417)
 
@@ -246,7 +246,7 @@ Dataset (+ node and egdes lists) is available in [editio/premios-literarios](htt
 
 Stylometry Network of plays of 17th. C. Spanish  Theater. The nodes represent plays linked according to their stylistic similarity. Analysis performed using the consensus tree (2000-5000 MFW) and Delta distance with the R package, stylo (Eder, Rybicki and Kestemont, 2016), on a corpus of circa 700 plays and 50 authors. Interactive visualization in: [Stylometry on Drama](https://editio.github.io/grafos/teatro)
 
-- ```estilometria_teatro.gexf```
+- ```stylometry_theater.gexf```
 
 ## Bibliography
 
@@ -279,7 +279,7 @@ Co-authoring network of 3500 publications on Stylometry. The bibliography has be
 
 ☞ Transform structured data (CSV) into an edgelist (GEXF)
 
-1. ```/data``` > ```autoresypremios.csv```
+1. ```/data``` > ```authors_and_awards.csv```
 2. [table2net](https://medialab.github.io/table2net/) (transformation in the browser).
 3. Load table > Type of Network > Nodes > Build the network > Download.
 
@@ -291,20 +291,20 @@ Co-authoring network of 3500 publications on Stylometry. The bibliography has be
 
 ☞ Explore bipartite networks.
 
-1. Gephi > open ```autoresypremios.gexf```.
+1. Gephi > open ```authors_and_awards.gexf```.
 - Layout: Force Atlas 2 > run|stop; > Prevent overlap > run|stop; Zoom
 - Appearance > nodes > color [icon palette] > Partition > Choose an attribute > Type
 - Appearance > nodes > size [icon circles] > Ranking > Choose an attribute > Degree [min. 10 - max. 50] (number of authors by award).
 - Nodes Labels: Show node Labels; More settings > Labels > Hide non-selected. 
-- [reset colors] > Appearance > nodes > color [icon palette] > Partition > Choose an attribute > sexlabel. 
+- [reset colors] > Appearance > nodes > color [icon palette] > Partition > Choose an attribute > gender.
 
 ## Awards and winners network (2)
 
 ☞ Explore simple networks
 
-Files are available in ```/data/premios.gexf```; ```/data/autores.gexf```. They can also be created from the structured data (CSV) with ([table2net](https://medialab.github.io/table2net/)) o using a transformation from the bipartite network (☞ _vide infra_).
+Files are available in ```/data/awards.gexf```; ```/data/authors.gexf```. They can also be created from the structured data (CSV) with ([table2net](https://medialab.github.io/table2net/)) o using a transformation from the bipartite network (☞ _vide infra_).
 
-1. Gephi > open ```premios.gexf```
+1. Gephi > open ```awards.gexf```
   - Layout: Force atlas 2 [Prevent overlap, Disuade Hubs, Scaling = 50]
   - Appearance > nodes > size [icon circles] > Ranking > Choose an attribute > Degree [min. 5 - max. 30].
   - Modularity: Community detection > Modularity > run.
@@ -314,7 +314,7 @@ Files are available in ```/data/premios.gexf```; ```/data/autores.gexf```. They 
       - Statistics > eigenvector Centrality.
       - Appearance > nodes > size [icon circles] > Ranking > Choose an attribute > eigenvector Centrality.
 
-2. Gephi > open ```autores.gexf```
+2. Gephi > open ```authors.gexf```
   - Layout: Layout: Fruchterman Reingold.
   - Appearance > nodes > color [icon palette] > Partition > Choose an attribute > sexlabel.
   - Appearance > nodes > size [icon circles] > Ranking > Choose an attribute > Degree [min. 5 - max. 30].
@@ -334,7 +334,7 @@ Files are available in ```/data/premios.gexf```; ```/data/autores.gexf```. They 
 
 ☞ Explore textual networks
 
-1. Gephi > open ```estilometria_teatro.gexf```.
+1. Gephi > open ```stylometry_theater.gexf```.
 - Layout: Force atlas 2 [Prevent overlap, Disuade Hubs, Scaling = 200].
 - Appearance > nodes > color [icon palette] > Partition > Choose an attribute > Classes (autores) > Palette > Generate [Limit number of colors: unchecked] > generate.
 - Appearance > nodes > size [icon circles] > Unique > size = 20.
@@ -363,7 +363,6 @@ Compare with modularity algorithms:
 3. Plugin: _Sigma Exporter_. It creates a folder with the required libraries, data and files to display the graph interactively in a browser. It is necessary to upload it to a web server, for example, using [Github Pages](https://pages.github.com). For testing purposes, It is possible to launch a local server: [Instrucciones](http://phc.uni.wroc.pl/interreg/w/losada/trans.html#web-server-in-your-computer).
 4. [Retina](https://ouestware.gitlab.io/retina/1.0.0-beta.1/) (Web app, beta): 
 Visualization in the browser (offline / online) from a GEXF file.
-5. 
 
 # Tutorials, manuals, references
 
