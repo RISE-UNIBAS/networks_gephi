@@ -316,7 +316,7 @@ Files are available in ```/data/awards.gexf```; ```/data/authors.gexf```. They c
 
 2. Gephi > open ```authors.gexf```
   - Layout: Layout: Fruchterman Reingold.
-  - Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > sexlabel.
+  - Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > sexlabel.
   - Appearance > nodes > size [icon circles ![](/images/size.png)] > Ranking > Choose an attribute > Degree [min. 5 - max. 30].
 
 ☞ Switching from one type of network to another (projection).
@@ -336,14 +336,14 @@ Files are available in ```/data/awards.gexf```; ```/data/authors.gexf```. They c
 
 1. Gephi > open ```stylometry_theater.gexf```.
 - Layout: Force atlas 2 [Prevent overlap, Disuade Hubs, Scaling = 200].
-- Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > Classes (autores) > Palette > Generate [Limit number of colors: unchecked] > generate.
+- Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > Classes (autores) > Palette > Generate [Limit number of colors: unchecked] > generate.
 - Appearance > nodes > size [icon circles ![](/images/size.png)] > Unique > size = 20.
 - Nodes Labels: Show node Labels; More settings > Labels > Hide non-selected.  
 
 Compare with modularity algorithms:
 
 - Modularity: Community detection > Modularity > run.
-- Appearance > nodes > color [icon palette ![](/images/color.png] > Partition > Choose an attribute > Modularity Class.
+- Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > Modularity Class.
 
 ## Bibliography
 
