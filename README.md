@@ -1,8 +1,7 @@
 # **Network analysis in the Humanities. Gephi**
 
-RISE crash course: Gephi by José Luis Losada.
-
-Two-hour crash course for introduction to Network analysis and visualization with Gephi.
+Introduction course to Network analysis and visualization with Gephi
+By José Luis Losada
 
 ☞ Course outline
 
@@ -325,8 +324,8 @@ Files are available in ```/data/awards.gexf```; ```/data/authors.gexf```. They c
   
   - Bipartite Network.
   - Load attributes > type:
-    - Premio > Autor / Autor > Premio (Simple network of awards)
-    - Autor > Premio / Premio > Autor (Simple network of authors)
+    - Award > Author / Author > Award (Simple network of awards)
+    - Author > Award / Award > Author (Simple network of authors)
   - Remove nodes, edges.
   - Run.
 
