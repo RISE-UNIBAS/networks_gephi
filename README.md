@@ -52,7 +52,7 @@ By José Luis Losada
 - The concept of network supposes a relational structure that can be studied (1) in a logical and mathematical way: Graph theory (discipline). History: [Euler and the seven bridges of Königsberg](https://medium.com/@satoshihgsn/seven-bridges-of-königsberg-can-this-diagram-be-drawn-in-a-single-stroke-e261980711a1).
 - (2) Exploration through visualization.
 
-
+> “Networks are extraordinary calculating devices, but they are also maps, instruments of navigation and representation” (Jacomy 2017: 155). 
 
 ## Basic concepts. Nodes and edges
 
@@ -353,7 +353,6 @@ Compare with modularity algorithms:
 - Layout: Layout: Fruchterman Reingold (compare with Force Atlas 2).
 - Compare with modularity algorithms:
 
-
 ## Out of Gephi: Publication possibilities
 
 ☞ Static and dynamic forms of graph representation outside Gephi
@@ -371,10 +370,8 @@ Visualization in the browser (offline / online) from a GEXF file.
 - Gephi, [Learn how to use Gephi](https://gephi.org/users/).
 - Martin Grandjean, [Gephi: Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction), 14/10/2015.
 - Mathieu Jacomy, “A standard for presenting network visualizations”, _Reticular_, 01/03/2019, <https://reticular.hypotheses.org/834>.
-
+- Mathieu Jacomy, Venturini, Tommaso, Liliana Bounegru, and Jonathan Gray (2017). “How to Tell Stories with Networks: Exploring the Narrative Affordances of Graphs with the Iliad”. In The Datafied Society, edited by Mirko Tobias Schäfer and Karin van Es, 155–170. Amsterdam. <https://doi.org/10.1515/9789048531011-014>
 - Clément Levallois, [Gephi tutorials](https://seinecle.github.io/gephi-tutorials/), Last update: 2022.
 - Mark Newman, _Networks: An Introduction_, Oxford University Press, 2010.
 - Katherine Ognyanova, [Static and dynamic network visualization with R](https://kateto.net/network-visualization), 2021
 - Katharina A. Zweig, _Network Analysis Literacy: A Practical Approach to the Analysis of Networks_, Springer, 2016.
-
-
