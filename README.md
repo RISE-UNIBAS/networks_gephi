@@ -13,7 +13,7 @@ By José Luis Losada
 - [Tools](#tools)
 - [Data](#data-for-this-course)
 - [Hands-on](#step-by-step-instructions)
-- [Tutorials, manuals, references](#tutorial-manuals-references)
+- [Tutorials, manuals, references](#tutorials-manuals-references)
 
 # Network analysis in the Humanities
 
@@ -28,9 +28,9 @@ By José Luis Losada
     - [Stylometry on Drama](https://editio.github.io/grafos/teatro)
 - Historical Networks:
     - [Mapping the archives of the League of Nations ICIC (1919-1927)](https://grandjeanmartin.github.io/intellectual-cooperation)
-- Spatial Networks:gi
+- Spatial Networks:
     - [Core vs periphery](https://editio.github.io/mapping.literature/spatialnet.html#persiles_core_vs_periphery)
-- Bibliographic networks::
+- Bibliographic networks:
     - Citation: [Vosviewer](https://tinyurl.com/y36v4cb3)
     - Content similarity: [Connected Papers](https://www.connectedpapers.com/main/3149a915f738f044778e3decdb4278e2bad17808/Gephi%3A-An-Open-Source-Software-for-Exploring-and-Manipulating-Networks/graph)
 - Cultural networks:
@@ -261,7 +261,7 @@ Co-authoring network of 3500 publications on Stylometry. The bibliography has be
 ☞ Practice the basics of an edgelist, how to load it into Gephi and perform the first steps of visualization and metrics.
 
 1. Dracor > tools > https://ezlinavis.dracor.org > Examples > Calderón de la Barca> download _edge list_.
-2. Gephi > Import spreadsheet (CSV) > next > finish.
+2. Gephi > File > Import spreadsheet (CSV) > next > finish.
 - Layout: Fruchterman Reingold.
 - Nodes size based on _degree_: Appearance > nodes > size [icon circles ![](/images/size.png)] > Ranking > Choose an attribute > Degree [min. 10 - max. 50].
 - Nodes labels: "copy data to other column" (_Data laboratory_). Alternative: "select attributes to display as labels" (_Overview_).
@@ -359,7 +359,7 @@ Compare with modularity algorithms:
 
 1. Panel _Overview_: Screeshot (left), More settings (right)...
 2. Panel _Preview_: export SVG, PNG, PDF.
-3. Plugin: _Sigma Exporter_. It creates a folder with the required libraries, data and files to display the graph interactively in a browser. It is necessary to upload it to a web server, for example, using [Github Pages](https://pages.github.com). For testing purposes, It is possible to launch a local server: [Instrucciones](http://phc.uni.wroc.pl/interreg/w/losada/trans.html#web-server-in-your-computer).
+3. Plugin: _Sigma Exporter_. It creates a folder with the required libraries, data and files to display the graph interactively in a browser. It is necessary to upload it to a web server, for example, using [Github Pages](https://pages.github.com). For testing purposes, It is possible to launch a local server: [Instructions](http://phc.uni.wroc.pl/interreg/w/losada/trans.html#web-server-in-your-computer).
 4. [Retina](https://ouestware.gitlab.io/retina/1.0.0-beta.1/) (Web app, beta): 
 Visualization in the browser (offline / online) from a GEXF file.
 
