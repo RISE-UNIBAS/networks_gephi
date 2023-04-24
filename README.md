@@ -76,6 +76,10 @@ By José Luis Losada
 
 ![](images/terms_multiple.png) 
 
+## Multiple and Directed Network
+
+![](images/terms_multiple_directed.png) 
+
 # Formalization and file formats
 
 ## Formalization
@@ -206,6 +210,8 @@ Gephi has restarted its development in recent years.  It can be downloaded from 
 
 One of the advantages of the new versions (since 0.9.3) is that it already comes with Java (program language and execution environment for programs such as Gephi). More about the installation at <https://gephi.org/users/install/>.
 
+New in 2023! [Gephi Lite](https://gephi.org/gephi-lite/)
+
 ## Interface: Panel _Overview_
 
 ![](images/gephi_interfaz.png)
@@ -253,6 +259,14 @@ Stylometry Network of plays of 17th. C. Spanish  Theater. The nodes represent pl
 Co-authoring network of 3500 publications on Stylometry. The bibliography has been compiled by Christof Schöch, _Bibliography on Stylometry_, 2017, DOI: [10.5281/zenodo.835190](https://doi.org/10.5281/zenodo.3629772).
 
 - ```biblio_stylo.gexf```
+
+## Correspondence
+
+Correspondence network of Alexander von Humboldt (sample of 105 letters). Data obtained from [edition humboldt digital](https://edition-humboldt.de/index.xql?l=de) (CC BY-SA 4.0.) Sender, receiver, and date sent extracted from letters encoded in TEI.
+
+- ```humboldt_edgelist.csv```
+- ```humboldt_network.gexf```
+
 
 # Step-by-step instructions
  
@@ -350,8 +364,35 @@ Compare with modularity algorithms:
 ☞ Explore disconnected networks
 
 1. Gephi > open ```biblio_stylo.gexf```.
-- Layout: Layout: Fruchterman Reingold (compare with Force Atlas 2).
-- Compare with modularity algorithms:
+- Layout: Fruchterman Reingold (compare with Force Atlas 2).
+- Compare with modularity algorithms.
+
+## Correspondece
+
+☞ Explore directed networks, Gephi's limits with multiple edges, filters and timelines.
+
+1. Gephi > File > Import spreadsheet (CSV) > next > Time representation [Intervals] > Finish > Edges merge strategy [Don't merge]
+
+- Layout: Fruchterman Reingold
+- Nodes labels: "copy data to other column" (_Data laboratory_) to allow for searching (cmd/ctrl F); (_Overview_): labels "Hide non-selected"; (_Overview_): edges "Selection color checked" (in-out).
+
+2. (_Data laboratory_) multiple edges? Humboldt -> Ehrenberg
+
+![](images/humboldt_multiple-weighted.png)
+
+3. Gephi > File > Import spreadsheet (CSV) [...] Finish > Edges merge strategy [merge] > New workspace.
+
+4. Filters (see [Using filters in Gephi](https://seinecle.github.io/gephi-tutorials/generated-html/using-filters-en.html))
+
+- Filters > Edges > Mutual Edges > Filter
+- Filters > Topology > In Degree | Out Degree > Filter 
+
+5. Timeline
+
+- Use the network with multiple edges (be aware of the limitations also for the timeline)
+
+- (_Data laboratory_) Merge columns > date_sent > columns to merge > merge strategy > Create time interval > Parse dates
+- Enable timeline > Set time format (bottom left) [date format]  > Set play settings (bottom left) [one bound].
 
 ## Out of Gephi: Publication possibilities
 
@@ -362,6 +403,7 @@ Compare with modularity algorithms:
 3. Plugin: _Sigma Exporter_. It creates a folder with the required libraries, data and files to display the graph interactively in a browser. It is necessary to upload it to a web server, for example, using [Github Pages](https://pages.github.com). For testing purposes, It is possible to launch a local server: [Instructions](http://phc.uni.wroc.pl/interreg/w/losada/trans.html#web-server-in-your-computer).
 4. [Retina](https://ouestware.gitlab.io/retina/1.0.0-beta.1/) (Web app, beta): 
 Visualization in the browser (offline / online) from a GEXF file.
+
 
 # Tutorials, manuals, references
 

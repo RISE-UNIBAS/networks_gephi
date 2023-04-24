@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-04-22">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="date" timerepresentation="interval" timezone="UTC" mode="dynamic">
+    <attributes class="edge" mode="static">
+      <attribute id="date_sent" title="date_sent" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="Bonpland, Aimé Jacques" label="Bonpland, Aimé Jacques">
+        <viz:size value="10.0"/>
+        <viz:position x="89.17766" y="-361.92984"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Willdenow, Karl Ludwig" label="Willdenow, Karl Ludwig">
+        <viz:size value="10.0"/>
+        <viz:position x="-539.1641" y="193.41554"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Ehrenberg, Christian Gottfried" label="Ehrenberg, Christian Gottfried">
+        <viz:size value="10.0"/>
+        <viz:position x="159.20558" y="-137.58514"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Humboldt, Alexander von" label="Humboldt, Alexander von">
+        <viz:size value="10.0"/>
+        <viz:position x="31.980387" y="95.587234"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Encke, Johann Franz" label="Encke, Johann Franz">
+        <viz:size value="10.0"/>
+        <viz:position x="376.86993" y="-67.952446"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Gmelin, Karl Christian" label="Gmelin, Karl Christian">
+        <viz:size value="10.0"/>
+        <viz:position x="51.79006" y="588.48676"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Kunth, Carl Sigismund" label="Kunth, Carl Sigismund">
+        <viz:size value="10.0"/>
+        <viz:position x="-350.9992" y="-117.478134"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Kunth, Marie-Josèphe" label="Kunth, Marie-Josèphe">
+        <viz:size value="10.0"/>
+        <viz:position x="-413.59064" y="404.1732"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Meyen, Franz Julius Ferdinand" label="Meyen, Franz Julius Ferdinand">
+        <viz:size value="10.0"/>
+        <viz:position x="-202.20465" y="548.4669"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Polier, Adolphe, Graf von" label="Polier, Adolphe, Graf von">
+        <viz:size value="10.0"/>
+        <viz:position x="486.96863" y="320.60422"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Preußen, Friedrich Wilhelm IV., König von" label="Preußen, Friedrich Wilhelm IV., König von">
+        <viz:size value="10.0"/>
+        <viz:position x="-586.79755" y="-51.406727"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Rugendas, Johann Moritz" label="Rugendas, Johann Moritz">
+        <viz:size value="10.0"/>
+        <viz:position x="287.09116" y="168.33434"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schinkel, Karl Friedrich" label="Schinkel, Karl Friedrich">
+        <viz:size value="10.0"/>
+        <viz:position x="103.62169" y="346.20343"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schlagintweit, Adolph von" label="Schlagintweit, Adolph von">
+        <viz:size value="10.0"/>
+        <viz:position x="305.42905" y="492.776"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schlagintweit, Emil" label="Schlagintweit, Emil">
+        <viz:size value="10.0"/>
+        <viz:position x="-495.82495" y="-316.8508"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schlagintweit, Robert, Freiherr von" label="Schlagintweit, Robert, Freiherr von">
+        <viz:size value="10.0"/>
+        <viz:position x="-293.40283" y="126.59527"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schlagintweit-Sakünlünski, Hermann" label="Schlagintweit-Sakünlünski, Hermann">
+        <viz:size value="10.0"/>
+        <viz:position x="383.4825" y="-364.39642"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schomburgk, Moritz Richard" label="Schomburgk, Moritz Richard">
+        <viz:size value="10.0"/>
+        <viz:position x="-145.62192" y="310.4881"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schomburgk, Otto Alfred" label="Schomburgk, Otto Alfred">
+        <viz:size value="10.0"/>
+        <viz:position x="-309.70544" y="-501.31204"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Schomburgk, Sir Robert Hermann" label="Schomburgk, Sir Robert Hermann">
+        <viz:size value="10.0"/>
+        <viz:position x="576.6998" y="82.06149"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Soemmerring, Samuel Thomas Ritter von" label="Soemmerring, Samuel Thomas Ritter von">
+        <viz:size value="10.0"/>
+        <viz:position x="-162.34633" y="-322.75095"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Sömmering, Samuel Thomas" label="Sömmering, Samuel Thomas">
+        <viz:size value="10.0"/>
+        <viz:position x="234.67818" y="-554.1388"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Lambert, Aylmer Bourke" label="Lambert, Aylmer Bourke">
+        <viz:size value="10.0"/>
+        <viz:position x="568.0529" y="-209.29512"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Wilhelm, Prinz von Preußen" label="Wilhelm, Prinz von Preußen">
+        <viz:size value="10.0"/>
+        <viz:position x="-49.668903" y="-585.63007"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+      <node id="Walker-Arnott, George Arnott" label="Walker-Arnott, George Arnott">
+        <viz:size value="10.0"/>
+        <viz:position x="-105.72081" y="-86.465935"/>
+        <viz:color r="153" g="153" b="153"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Bonpland, Aimé Jacques" target="Willdenow, Karl Ludwig" start="1811-10-10" end="1811-10-10">
+        <attvalues>
+          <attvalue for="date_sent" value="1811-10-10"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="Ehrenberg, Christian Gottfried" target="Humboldt, Alexander von" start="1849-02-10" end="1849-02-10">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-02-10"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="Ehrenberg, Christian Gottfried" target="Humboldt, Alexander von" start="1854-08-08" end="1854-08-08">
+        <attvalues>
+          <attvalue for="date_sent" value="1854-08-08"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="Ehrenberg, Christian Gottfried" target="Humboldt, Alexander von" start="1848-11-23" end="1848-11-23">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-11-23"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="Ehrenberg, Christian Gottfried" target="Humboldt, Alexander von" start="1848-05-30" end="1848-05-30">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-05-30"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="Ehrenberg, Christian Gottfried" target="Humboldt, Alexander von" start="1858-12-28" end="1858-12-28">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-12-28"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="Encke, Johann Franz" target="Ehrenberg, Christian Gottfried" start="1847-01-16" end="1847-01-16">
+        <attvalues>
+          <attvalue for="date_sent" value="1847-01-16"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="Humboldt, Alexander von" target="Ehrenberg, Christian Gottfried" start="1835-06-25" end="1835-06-25">
+        <attvalues>
+          <attvalue for="date_sent" value="1835-06-25"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Humboldt, Alexander von" target="Ehrenberg, Christian Gottfried" start="1856-12-09" end="1856-12-09">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-12-09"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="Humboldt, Alexander von" target="Ehrenberg, Christian Gottfried" start="1856-03-22" end="1856-03-22">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-03-22"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="Humboldt, Alexander von" target="Ehrenberg, Christian Gottfried" start="1856-09-25" end="1856-09-25">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-09-25"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="Humboldt, Alexander von" target="Ehrenberg, Christian Gottfried" start="1856-03-22" end="1856-03-22">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-03-22"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="Humboldt, Alexander von" target="Gmelin, Karl Christian" start="1829-03-03" end="1829-03-03">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-03-03"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="Humboldt, Alexander von" target="Kunth, Carl Sigismund" start="1842-11-02" end="1842-11-02">
+        <attvalues>
+          <attvalue for="date_sent" value="1842-11-02"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="Humboldt, Alexander von" target="Kunth, Carl Sigismund" start="1848-11-24" end="1848-11-24">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-11-24"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="Humboldt, Alexander von" target="Kunth, Carl Sigismund" start="1846-08-01" end="1846-08-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1846-08-01"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="Humboldt, Alexander von" target="Kunth, Carl Sigismund" start="1839-04-20" end="1839-04-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1839-04-20"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="Humboldt, Alexander von" target="Kunth, Carl Sigismund" start="1838-01-01" end="1838-01-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1838-01-01"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="Humboldt, Alexander von" target="Kunth, Marie-Josèphe" start="1840-06-07" end="1840-06-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1840-06-07"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="Humboldt, Alexander von" target="Kunth, Marie-Josèphe" start="1840-06-07" end="1840-06-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1840-06-07"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="Humboldt, Alexander von" target="Kunth, Marie-Josèphe" start="1829-08-01" end="1829-08-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-08-01"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="Humboldt, Alexander von" target="Meyen, Franz Julius Ferdinand" start="1837-01-01" end="1837-01-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1837-01-01"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="Humboldt, Alexander von" target="Meyen, Franz Julius Ferdinand" start="1833-08-22" end="1833-08-22">
+        <attvalues>
+          <attvalue for="date_sent" value="1833-08-22"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="Humboldt, Alexander von" target="Meyen, Franz Julius Ferdinand" start="1828-01-01" end="1828-01-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1828-01-01"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="Humboldt, Alexander von" target="Meyen, Franz Julius Ferdinand" start="1830-01-01" end="1830-01-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-01-01"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="Humboldt, Alexander von" target="Meyen, Franz Julius Ferdinand" start="1830-05-14" end="1830-05-14">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-05-14"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="Humboldt, Alexander von" target="Polier, Adolphe, Graf von" start="1829-09-14" end="1829-09-14">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-09-14"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="Humboldt, Alexander von" target="Polier, Adolphe, Graf von" start="1829-11-27" end="1829-11-27">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-11-27"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="Humboldt, Alexander von" target="Polier, Adolphe, Graf von" start="1829-04-18" end="1829-04-18">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-04-18"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="Humboldt, Alexander von" target="Polier, Adolphe, Graf von" start="1830-02-26" end="1830-02-26">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-02-26"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="Humboldt, Alexander von" target="Preußen, Friedrich Wilhelm IV., König von" start="1857-06-20" end="1857-06-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1857-06-20"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="Humboldt, Alexander von" target="Preußen, Friedrich Wilhelm IV., König von" start="1857-07-31" end="1857-07-31">
+        <attvalues>
+          <attvalue for="date_sent" value="1857-07-31"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="Humboldt, Alexander von" target="Preußen, Friedrich Wilhelm IV., König von" start="1840-10-05" end="1840-10-05">
+        <attvalues>
+          <attvalue for="date_sent" value="1840-10-05"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="Humboldt, Alexander von" target="Rugendas, Johann Moritz" start="1831-03-30" end="1831-03-30">
+        <attvalues>
+          <attvalue for="date_sent" value="1831-03-30"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="Humboldt, Alexander von" target="Rugendas, Johann Moritz" start="1830-06-29" end="1830-06-29">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-06-29"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="Humboldt, Alexander von" target="Rugendas, Johann Moritz" start="1831-01-06" end="1831-01-06">
+        <attvalues>
+          <attvalue for="date_sent" value="1831-01-06"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="Humboldt, Alexander von" target="Rugendas, Johann Moritz" start="1830-07-02" end="1830-07-02">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-07-02"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="Humboldt, Alexander von" target="Rugendas, Johann Moritz" start="1830-03-08" end="1830-03-08">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-03-08"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="Humboldt, Alexander von" target="Schinkel, Karl Friedrich" start="1830-07-12" end="1830-07-12">
+        <attvalues>
+          <attvalue for="date_sent" value="1830-07-12"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="Humboldt, Alexander von" target="Schlagintweit, Adolph von" start="1854-09-04" end="1854-09-04">
+        <attvalues>
+          <attvalue for="date_sent" value="1854-09-04"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="Humboldt, Alexander von" target="Schlagintweit, Adolph von" start="1852-08-01" end="1852-08-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1852-08-01"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="Humboldt, Alexander von" target="Schlagintweit, Adolph von" start="1849-06-21" end="1849-06-21">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-06-21"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="Humboldt, Alexander von" target="Schlagintweit, Adolph von" start="1850-08-21" end="1850-08-21">
+        <attvalues>
+          <attvalue for="date_sent" value="1850-08-21"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="Humboldt, Alexander von" target="Schlagintweit, Emil" start="1856-04-01" end="1856-04-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-04-01"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="Humboldt, Alexander von" target="Schlagintweit, Robert, Freiherr von" start="1858-03-05" end="1858-03-05">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-03-05"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="Humboldt, Alexander von" target="Schlagintweit, Robert, Freiherr von" start="1857-06-17" end="1857-06-17">
+        <attvalues>
+          <attvalue for="date_sent" value="1857-06-17"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="Humboldt, Alexander von" target="Schlagintweit, Robert, Freiherr von" start="1858-10-04" end="1858-10-04">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-10-04"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="Humboldt, Alexander von" target="Schlagintweit-Sakünlünski, Hermann" start="1857-12-01" end="1857-12-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1857-12-01"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="Humboldt, Alexander von" target="Schlagintweit-Sakünlünski, Hermann" start="1852-10-30" end="1852-10-30">
+        <attvalues>
+          <attvalue for="date_sent" value="1852-10-30"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="Humboldt, Alexander von" target="Schlagintweit-Sakünlünski, Hermann" start="1850-03-17" end="1850-03-17">
+        <attvalues>
+          <attvalue for="date_sent" value="1850-03-17"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="Humboldt, Alexander von" target="Schlagintweit-Sakünlünski, Hermann" start="1852-03-19" end="1852-03-19">
+        <attvalues>
+          <attvalue for="date_sent" value="1852-03-19"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="Humboldt, Alexander von" target="Schlagintweit-Sakünlünski, Hermann" start="1859-04-02" end="1859-04-02">
+        <attvalues>
+          <attvalue for="date_sent" value="1859-04-02"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="Humboldt, Alexander von" target="Schomburgk, Moritz Richard" start="1840-10-05" end="1840-10-05">
+        <attvalues>
+          <attvalue for="date_sent" value="1840-10-05"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="Humboldt, Alexander von" target="Schomburgk, Otto Alfred" start="1848-12-07" end="1848-12-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-12-07"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="Humboldt, Alexander von" target="Schomburgk, Otto Alfred" start="1845-08-28" end="1845-08-28">
+        <attvalues>
+          <attvalue for="date_sent" value="1845-08-28"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="Humboldt, Alexander von" target="Schomburgk, Sir Robert Hermann" start="1848-10-31" end="1848-10-31">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-10-31"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="Humboldt, Alexander von" target="Schomburgk, Sir Robert Hermann" start="1843-12-31" end="1843-12-31">
+        <attvalues>
+          <attvalue for="date_sent" value="1843-12-31"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="Humboldt, Alexander von" target="Soemmerring, Samuel Thomas Ritter von" start="1795-06-07" end="1795-06-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1795-06-07"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="Humboldt, Alexander von" target="Soemmerring, Samuel Thomas Ritter von" start="1826-12-17" end="1826-12-17">
+        <attvalues>
+          <attvalue for="date_sent" value="1826-12-17"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="Humboldt, Alexander von" target="Soemmerring, Samuel Thomas Ritter von" start="1796-02-07" end="1796-02-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1796-02-07"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="Humboldt, Alexander von" target="Soemmerring, Samuel Thomas Ritter von" start="1793-12-05" end="1793-12-05">
+        <attvalues>
+          <attvalue for="date_sent" value="1793-12-05"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="Humboldt, Alexander von" target="Soemmerring, Samuel Thomas Ritter von" start="1796-05-08" end="1796-05-08">
+        <attvalues>
+          <attvalue for="date_sent" value="1796-05-08"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="Humboldt, Alexander von" target="Sömmering, Samuel Thomas" start="1795-06-29" end="1795-06-29">
+        <attvalues>
+          <attvalue for="date_sent" value="1795-06-29"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="Humboldt, Alexander von" target="Willdenow, Karl Ludwig" start="1796-12-20" end="1796-12-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1796-12-20"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="Humboldt, Alexander von" target="Willdenow, Karl Ludwig" start="1795-07-17" end="1795-07-17">
+        <attvalues>
+          <attvalue for="date_sent" value="1795-07-17"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="Humboldt, Alexander von" target="Willdenow, Karl Ludwig" start="1795-01-01" end="1795-01-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1795-01-01"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="Humboldt, Alexander von" target="Willdenow, Karl Ludwig" start="1796-11-19" end="1796-11-19">
+        <attvalues>
+          <attvalue for="date_sent" value="1796-11-19"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="Humboldt, Alexander von" target="Willdenow, Karl Ludwig" start="1805-02-01" end="1805-02-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1805-02-01"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="Kunth, Carl Sigismund" target="Humboldt, Alexander von" start="1848-11-25" end="1848-11-25">
+        <attvalues>
+          <attvalue for="date_sent" value="1848-11-25"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="Kunth, Carl Sigismund" target="Humboldt, Alexander von" start="1849-02-01" end="1849-02-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-02-01"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="Kunth, Carl Sigismund" target="Humboldt, Alexander von" start="1833-03-26" end="1833-03-26">
+        <attvalues>
+          <attvalue for="date_sent" value="1833-03-26"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="Kunth, Carl Sigismund" target="Humboldt, Alexander von" start="1849-01-13" end="1849-01-13">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-01-13"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="Lambert, Aylmer Bourke" target="Humboldt, Alexander von" start="1820-11-14" end="1820-11-14">
+        <attvalues>
+          <attvalue for="date_sent" value="1820-11-14"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="Rugendas, Johann Moritz" target="Humboldt, Alexander von" start="1829-02-20" end="1829-02-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1829-02-20"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="Rugendas, Johann Moritz" target="Humboldt, Alexander von" start="1826-03-20" end="1826-03-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1826-03-20"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="Rugendas, Johann Moritz" target="Humboldt, Alexander von" start="1826-01-20" end="1826-01-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1826-01-20"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="Rugendas, Johann Moritz" target="Humboldt, Alexander von" start="1854-02-26" end="1854-02-26">
+        <attvalues>
+          <attvalue for="date_sent" value="1854-02-26"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="Rugendas, Johann Moritz" target="Humboldt, Alexander von" start="1825-12-12" end="1825-12-12">
+        <attvalues>
+          <attvalue for="date_sent" value="1825-12-12"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="Schlagintweit, Adolph von" target="Humboldt, Alexander von" start="1855-06-25" end="1855-06-25">
+        <attvalues>
+          <attvalue for="date_sent" value="1855-06-25"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="Schlagintweit, Adolph von" target="Humboldt, Alexander von" start="1851-12-18" end="1851-12-18">
+        <attvalues>
+          <attvalue for="date_sent" value="1851-12-18"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="Schlagintweit, Adolph von" target="Humboldt, Alexander von" start="1855-05-07" end="1855-05-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1855-05-07"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="Schlagintweit, Adolph von" target="Humboldt, Alexander von" start="1852-06-02" end="1852-06-02">
+        <attvalues>
+          <attvalue for="date_sent" value="1852-06-02"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="Schlagintweit, Adolph von" target="Humboldt, Alexander von" start="1855-12-15" end="1855-12-15">
+        <attvalues>
+          <attvalue for="date_sent" value="1855-12-15"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="Schlagintweit, Robert, Freiherr von" target="Humboldt, Alexander von" start="1842-11-12" end="1842-11-12">
+        <attvalues>
+          <attvalue for="date_sent" value="1842-11-12"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="Schlagintweit, Robert, Freiherr von" target="Humboldt, Alexander von" start="1858-05-19" end="1858-05-19">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-05-19"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="Schlagintweit, Robert, Freiherr von" target="Humboldt, Alexander von" start="1858-04-14" end="1858-04-14">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-04-14"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="Schlagintweit, Robert, Freiherr von" target="Humboldt, Alexander von" start="1858-02-12" end="1858-02-12">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-02-12"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="Schlagintweit, Robert, Freiherr von" target="Humboldt, Alexander von" start="1856-09-26" end="1856-09-26">
+        <attvalues>
+          <attvalue for="date_sent" value="1856-09-26"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="Schlagintweit, Robert, Freiherr von" target="Wilhelm, Prinz von Preußen" start="1858-03-12" end="1858-03-12">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-03-12"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="Schlagintweit-Sakünlünski, Hermann" target="Humboldt, Alexander von" start="1859-03-20" end="1859-03-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1859-03-20"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="Schlagintweit-Sakünlünski, Hermann" target="Humboldt, Alexander von" start="1859-03-20" end="1859-03-20">
+        <attvalues>
+          <attvalue for="date_sent" value="1859-03-20"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="Schlagintweit-Sakünlünski, Hermann" target="Humboldt, Alexander von" start="1858-07-21" end="1858-07-21">
+        <attvalues>
+          <attvalue for="date_sent" value="1858-07-21"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="Schlagintweit-Sakünlünski, Hermann" target="Humboldt, Alexander von" start="1857-03-07" end="1857-03-07">
+        <attvalues>
+          <attvalue for="date_sent" value="1857-03-07"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="Schlagintweit-Sakünlünski, Hermann" target="Humboldt, Alexander von" start="1852-08-01" end="1852-08-01">
+        <attvalues>
+          <attvalue for="date_sent" value="1852-08-01"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="Schomburgk, Moritz Richard" target="Humboldt, Alexander von" start="1849-12-25" end="1849-12-25">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-12-25"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="Schomburgk, Moritz Richard" target="Humboldt, Alexander von" start="1847-09-09" end="1847-09-09">
+        <attvalues>
+          <attvalue for="date_sent" value="1847-09-09"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="Schomburgk, Otto Alfred" target="Humboldt, Alexander von" start="1849-01-10" end="1849-01-10">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-01-10"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="Schomburgk, Otto Alfred" target="Humboldt, Alexander von" start="1849-03-21" end="1849-03-21">
+        <attvalues>
+          <attvalue for="date_sent" value="1849-03-21"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="Schomburgk, Sir Robert Hermann" target="Humboldt, Alexander von" start="1840-04-03" end="1840-04-03">
+        <attvalues>
+          <attvalue for="date_sent" value="1840-04-03"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="Schomburgk, Sir Robert Hermann" target="Humboldt, Alexander von" start="1838-06-13" end="1838-06-13">
+        <attvalues>
+          <attvalue for="date_sent" value="1838-06-13"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="Schomburgk, Sir Robert Hermann" target="Humboldt, Alexander von" start="1838-11-17" end="1838-11-17">
+        <attvalues>
+          <attvalue for="date_sent" value="1838-11-17"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="Schomburgk, Sir Robert Hermann" target="Humboldt, Alexander von" start="1850-02-05" end="1850-02-05">
+        <attvalues>
+          <attvalue for="date_sent" value="1850-02-05"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="Schomburgk, Sir Robert Hermann" target="Humboldt, Alexander von" start="1839-10-24" end="1839-10-24">
+        <attvalues>
+          <attvalue for="date_sent" value="1839-10-24"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="Walker-Arnott, George Arnott" target="Humboldt, Alexander von" start="1822-03-14" end="1822-03-14">
+        <attvalues>
+          <attvalue for="date_sent" value="1822-03-14"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="Walker-Arnott, George Arnott" target="Humboldt, Alexander von" start="1825-03-15" end="1825-03-15">
+        <attvalues>
+          <attvalue for="date_sent" value="1825-03-15"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
