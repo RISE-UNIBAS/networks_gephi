@@ -37,6 +37,8 @@ By José Luis Losada
     - [Awards and winners](https://w.wiki/52Ju) 
 - Semantic networks:
     - [Word Families](https://www.rae.es/dhle/dhle_grafo.php?id=39279)
+- Author (ego) networks:
+    - [co-written drama](https://editio.github.io/presentations/imagenes/cola_moreto_colaboradas)      
     
 # Networks
 
