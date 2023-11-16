@@ -23,7 +23,7 @@ By José Luis Losada
     - Co-occurrence in Drama: [Dracor](https://dracor.org)
     - Co-occurrence in Narrative: [_Les Miserables_ (graph)](https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgephi%2Fgephi%2Ff27ae4fc88cd1c43820b31d94eaf7c6df57782d0%2Fmodules%2FWelcomeScreen%2Fsrc%2Fmain%2Fresources%2Forg%2Fgephi%2Fdesktop%2Fwelcome%2Fsamples%2FLes%2520Miserables.gexf&r=v&sa=r&ca=m-s&st=r); [_Les Miserables_ (matrix)](https://bost.ocks.org/mike/miserables/)
     - Dynamic: [Visualising the dynamics of character networks](https://maladesimaginaires.github.io/intnetviz/)
-    - Paratexts: [Project Bieses](https://www.bieses.net/editorial.html)
+    - Paratexts: [Project Bieses](https://www.bieses.net/editorial.html), [corpus CECLE & CICLE](https://editio.github.io/grafos/paratextos/)
 - Textual Networks:
     - [Stylometry on Drama](https://editio.github.io/grafos/teatro)
 - Historical Networks:
