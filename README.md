@@ -34,7 +34,7 @@ By José Luis Losada
     - Citation: [Vosviewer](https://tinyurl.com/y36v4cb3)
     - Content similarity: [Connected Papers](https://www.connectedpapers.com/main/3149a915f738f044778e3decdb4278e2bad17808/Gephi%3A-An-Open-Source-Software-for-Exploring-and-Manipulating-Networks/graph)
 - Cultural networks:
-    - [Awards and winners](https://w.wiki/52Ju) 
+    - [Awards and winners](https://w.wiki/BwKC) 
 - Semantic networks:
     - [Word Families](https://www.rae.es/dhle/dhle_grafo.php?id=39279)
 - Author (ego) networks:
@@ -169,7 +169,7 @@ It is recommended to save structured data in CSV, although Gephi accepts tables 
 
 # Visualization (_spatialization_)
 
-Same network, different layout.
+Same graph, different layout.
 
 ![](images/network_viz.png)
 
@@ -276,7 +276,7 @@ Correspondence network of Alexander von Humboldt (sample of 105 letters). Data o
 
 ☞ Practice the basics of an edgelist, how to load it into Gephi and perform the first steps of visualization and metrics.
 
-1. Dracor > tools > https://ezlinavis.dracor.org > Examples > Calderón de la Barca> download _edge list_.
+1. [Dracor](https://dracor.org) > tools > https://ezlinavis.dracor.org > Examples > Calderón de la Barca> download _edge list_.
 2. Gephi > File > Import spreadsheet (CSV) > next > finish.
 - Layout: Fruchterman Reingold.
 - Nodes size based on _degree_: Appearance > nodes > size [icon circles ![](/images/size.png)] > Ranking > Choose an attribute > Degree [min. 10 - max. 50].
@@ -285,7 +285,7 @@ Correspondence network of Alexander von Humboldt (sample of 105 letters). Data o
 
 ☞ Familiarize with GEXF file format, open en Gephi, nodes attribute (male/female).
 
-1. Dracor > corpora > [Spanish Drama Corpus](https://dracor.org/span) > Valle Inclán, _Luces de bohemia_ > Downloads > Archivo en gexf.
+1. [Dracor](https://dracor.org) > corpora > [Spanish Drama Corpus](https://dracor.org/span) > Valle Inclán, _Luces de bohemia_ > Downloads > Archivo en gexf.
 2. Gephi > open > [no changes] > ok.
 - Data exploration: _label_, _gender_ (_Data laboratory_).
 - Appearance > nodes > color [icon palette ![](/images/color.png)] > Partition > Choose an attribute > gender
@@ -373,7 +373,7 @@ Compare with modularity algorithms:
 
 ☞ Explore directed networks, Gephi's limits with multiple edges, filters and timelines.
 
-1. Gephi > File > Import spreadsheet (CSV) > next > Time representation [Intervals] > Finish > Edges merge strategy [Don't merge]
+1. Gephi > File > Import spreadsheet (CSV) > next > Time representation [Intervals] > Finish > Edges merge strategy **[Don't merge]**
 
 - Layout: Fruchterman Reingold
 - Nodes labels: "copy data to other column" (_Data laboratory_) to allow for searching (cmd/ctrl F); (_Overview_): labels "Hide non-selected"; (_Overview_): edges "Selection color checked" (in-out).
@@ -382,7 +382,7 @@ Compare with modularity algorithms:
 
 ![](images/humboldt_multiple-weighted.png)
 
-3. Gephi > File > Import spreadsheet (CSV) [...] Finish > Edges merge strategy [merge] > New workspace.
+3. Gephi > File > Import spreadsheet (CSV) [...] Finish > Edges merge strategy **[merge]** > New workspace.
 
 4. Filters (see [Using filters in Gephi](https://seinecle.github.io/gephi-tutorials/generated-html/using-filters-en.html))
 
