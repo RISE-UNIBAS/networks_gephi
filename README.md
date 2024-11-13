@@ -28,6 +28,7 @@ By José Luis Losada
     - [Stylometry on Drama](https://editio.github.io/grafos/teatro)
 - Historical Networks:
     - [Mapping the archives of the League of Nations ICIC (1919-1927)](https://grandjeanmartin.github.io/intellectual-cooperation)
+    - [Letter exchange](https://ernie.uva.nl/viewer.p/21/59/scenario/75/geo/)
 - Spatial Networks:
     - [Core vs periphery](https://editio.github.io/mapping.literature/spatialnet.html#persiles_core_vs_periphery)
 - Bibliographic networks:
