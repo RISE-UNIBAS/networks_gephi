@@ -33,7 +33,7 @@ By José Luis Losada
     - [Core vs periphery](https://editio.github.io/mapping.literature/spatialnet.html#persiles_core_vs_periphery)
 - Bibliographic networks:
     - Citation: [Vosviewer](https://tinyurl.com/y36v4cb3)
-    - Content similarity: [Connected Papers](https://www.connectedpapers.com/main/3149a915f738f044778e3decdb4278e2bad17808/Gephi%3A-An-Open-Source-Software-for-Exploring-and-Manipulating-Networks/graph)
+    - Content similarity: [Connected Papers](https://www.connectedpapers.com/main/3149a915f738f044778e3decdb4278e2bad17808/Gephi%3A-An-Open-Source-Software-for-Exploring-and-Manipulating-Networks/graph), [inciteful](https://inciteful.xyz)
 - Cultural networks:
     - [Awards and winners](https://w.wiki/BwKC) 
 - Semantic networks:
