@@ -421,3 +421,7 @@ Visualization in the browser (offline / online) from a GEXF file.
 - Mark Newman, _Networks: An Introduction_, Oxford University Press, 2010.
 - Katherine Ognyanova, [Static and dynamic network visualization with R](https://kateto.net/network-visualization), 2021
 - Katharina A. Zweig, _Network Analysis Literacy: A Practical Approach to the Analysis of Networks_, Springer, 2016.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

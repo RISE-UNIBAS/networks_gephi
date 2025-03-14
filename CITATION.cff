@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Network analysis in the Humanities. Gephi
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'José Luis '
+    family-names: Losada Palenzuela
+    email: joseluis.losadapalenzuela@unibas.ch
+    affiliation: University of Basel
+    orcid: 'https://orcid.org/0000-0002-6530-1328'
+repository-code: 'https://github.com/RISE-UNIBAS/networks_gephi'
+url: 'https://rise.unibas.ch/'
+abstract: >-
+  This GitHub repository provides an introductory course to
+  network analysis and visualization using Gephi, primarily
+  focusing on applications within the humanities. It
+  includes course outlines, showcases of network analysis in
+  various fields such as literature, history, and cultural
+  studies, and hands-on tutorials with data and step-by-step
+  instructions. The course covers basic network concepts,
+  file formats, metrics, and tools, along with Gephi plugins
+  and data for practical exercises. It also explores static
+  and dynamic graph representations outside Gephi and offers
+  a list of tutorials, manuals, and references for further
+  learning
+keywords:
+  - Network Analysis
+  - Gephi
+  - Visualization
+  - Graphs
+  - Humanities Data
+license: CC-BY-4.0
